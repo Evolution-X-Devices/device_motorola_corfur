@@ -23,6 +23,6 @@ PRODUCT_MODEL := moto g71 5G
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="fogo_g-user 15 V1UFNS35H.193-20-17 e46864-fa188 release-keys MV-304" \
-    BuildFingerprint=motorola/fogo_g/fogo:15/V1UFNS35H.193-20-17/e46864-fa188:user/release-keys \
-    DeviceProduct=fogo_g
+    BuildDesc="corfur_g-user 12 S2RUBS32.51-15-3-20 202c1e-4bdb2 release-keys" \
+    BuildFingerprint=motorola/corfur_g/corfur:12/S2RUBS32.51-15-3-20/202c1e-4bdb2:user/release-keys \
+    DeviceProduct=corfur_g
