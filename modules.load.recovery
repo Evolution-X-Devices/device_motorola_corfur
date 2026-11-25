@@ -1,7 +1,14 @@
+utags.ko
+mmi_relay.ko
 mmi_info.ko
 mmi_annotate.ko
+mmi_sys_temp.ko
+mmi_sc8549.ko
+mmi_parallel_charger_iio.ko
+mmi-smbcharger-iio.ko
 sensors_class.ko
 exfat.ko
-mmi-smbcharger-iio.ko
-ilitek_v3_mmi.ko
-nova_0flash_mmi.ko
+qpnp_adaptive_charge.ko
+touchscreen_mmi.ko
+focaltech_v2_mmi.ko
+goodix_v1510_mmi.ko
